@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I am Pravir Sinha👋
 
-<!--
-**PravirSinha/PravirSinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## AI Product Leader | Building intelligent products that solve real problems
 
-Here are some ideas to get you started:
+I am a product leader focused on translating cutting-edge AI research into products that create meaningful user value. I bridge the gap between technical possibility and business impact, working closely with engineering, research, and design teams to ship AI products at scale.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm working on
+
+Currently building [brief description of current focus area - e.g., "LLM-powered developer tools" or "AI safety features for consumer applications"]. I'm particularly interested in the intersection of product strategy, responsible AI, and user experience.
+
+### My approach to AI products
+
+I believe the best AI products are invisible to users—they enhance capabilities without adding complexity. My work focuses on:
+
+- Defining product vision and roadmaps that balance innovation with practical deployment
+- Collaborating with ML engineers and researchers to scope feasible solutions
+- Establishing metrics and evaluation frameworks for AI system performance
+- Championing responsible AI practices throughout the product development lifecycle
+- Translating technical capabilities into clear user benefits
+
+
+
+### Let's connect
+
+Open to conversations about **agentic AI**, **AI UX**, **evaluation science**, scaling AI products, or responsible deployment. Feel free to reach out at pravir.sinha18@gmail.com
+
+
+---
