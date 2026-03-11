@@ -6,7 +6,7 @@ I am a product leader focused on translating cutting-edge AI research into produ
 
 ### What I'm working on
 
-Currently building [brief description of current focus area - e.g., "LLM-powered developer tools" or "AI safety features for consumer applications"]. I'm particularly interested in the intersection of product strategy, responsible AI, and user experience.
+Currently building Conduit (AI powered solution for supply chain of commodity for Automotive service dealers). I'm particularly interested in the intersection of product strategy, responsible AI, and user experience.
 
 ### My approach to AI products
 
