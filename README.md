@@ -6,7 +6,7 @@ I am a product leader focused on translating cutting-edge AI research into produ
 
 ### What I'm working on
 
-Currently building Conduit (AI powered solution for supply chain of commodity for Automotive service dealers). I'm particularly interested in the intersection of product strategy, responsible AI, and user experience.
+Currently building Conduit (AI powered solution for supply chain of commodity for Automotive service dealers) and ShopMind (Manufacturing Intelligence platform). I'm particularly interested in the intersection of product strategy, responsible AI, and user experience.
 
 ### My approach to AI products
 
